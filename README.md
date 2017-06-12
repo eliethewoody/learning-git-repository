@@ -1,14 +1,12 @@
 # learning-git
 
-A Clojure library designed to ... well, that part is up to you.
+It is just an useless building of clojure project,
+which aim is to develop my knowledge as well.
 
 ## Usage
 
-FIXME
+There is no way to use it. Just go away =)
 
 ## License
 
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Without any license.
