@@ -1,6 +1,8 @@
 (ns learning-git.core)
 
 (defn foo
-  "I don't do a whole lot."
+  "wery important and functional."
   [x]
-  (println x "Hello, World!"))
+  (format "hello, %s! Welcome to our world." x))
+
+(foo "User")
